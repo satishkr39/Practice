@@ -1,0 +1,17 @@
+,Product_ID,Product_name,Category,Price,Seller_City,id,name,age,Purchased_Product,City
+0,101,Watch,Fashion,299.0,Delhi,,,,,
+1,102,Bag,Fashion,1350.5,Mumbai,,,,,
+2,103,Shoes,Fashion,2999.0,Chennai,,,,,
+3,104,Smartphone,Electronics,14999.0,Kolkata,,,,,
+4,105,Books,Study,145.0,Delhi,,,,,
+5,106,Oil,Grocery,110.0,Chennai,,,,,
+6,107,Laptop,Electronics,79999.0,Bengalore,,,,,
+0,101,,,,,1.0,Olivia,20.0,Watch,Mumbai
+1,0,,,,,2.0,Aditya,25.0,NA,Delhi
+2,106,,,,,3.0,Cory,15.0,Oil,Bangalore
+3,0,,,,,4.0,Isabell,10.0,NA,Chennai
+4,103,,,,,5.0,Dominic,30.0,Shoes,Chennai
+5,104,,,,,6.0,Tyler,65.0,Smartphone,Delhi
+6,0,,,,,7.0,Samuel,35.0,NA,Kolkata
+7,0,,,,,8.0,Daniel,18.0,NA,Delhi
+8,107,,,,,9.0,Jeremy,23.0,Laptop,Mumbai
